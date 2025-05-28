@@ -84,7 +84,9 @@ This creates the SQLite database and initializes all required tables.
 bash
 Copy
 Edit
-python main.py
+
+
+#python main.py
 Follow the CLI prompts to add/edit/delete teams, players, and stats.
 
  Example Usage
