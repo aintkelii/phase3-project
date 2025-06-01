@@ -80,13 +80,14 @@ Edit
 python -m app.seed
 This creates the SQLite database and initializes all required tables.
 
-4. Run the Application
-bash
+4. Run the Application #(first run {pipenv install sqlalchemy} secondly run {pipenv shell
+#} thirdly run {python main.py}) [ON THE TERMINAL] 
+bash 
 Copy
 Edit
 
 
-#python main.py
+
 Follow the CLI prompts to add/edit/delete teams, players, and stats.
 
  Example Usage
